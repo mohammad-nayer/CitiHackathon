@@ -1,0 +1,22 @@
+{
+    "applicants": [
+        {
+            "id": 8,
+            "university": "University of Bath",
+            "degree": "Computer Science",
+            "grade": 77
+        },
+        {
+            "id": 9,
+            "university": "University of Bristol",
+            "degree": "Computer Science",
+            "grade": 60
+        },
+        {
+            "id": 9,
+            "university": "University of Nowhere",
+            "degree": "Literature",
+            "grade": 40
+        }
+    ]
+}
