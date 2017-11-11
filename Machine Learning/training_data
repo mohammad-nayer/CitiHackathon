@@ -1,0 +1,46 @@
+{
+    "applicants": [
+        {
+            "id": 0,
+            "university": "University of Bristol",
+            "degree": "Computer Science",
+            "grade": 77,
+            "academic score" : 8
+        },
+        {
+            "id": 1,
+            "university": "University of Bath",
+            "degree": "Computer Science",
+            "grade": 82,
+            "academic score": 9
+        },
+        {
+            "id": 2,
+            "university": "University of Nowhere",
+            "degree": "Literature",
+            "grade": 50,
+            "academic score" : 2
+        },
+        {
+            "id": 3,
+            "university": "University of Nowhere",
+            "degree": "Computer Science",
+            "grade": 60,
+            "academic score": 4
+        },
+        {
+            "id": 4,
+            "university": "University of Bristol",
+            "degree": "Computer Science",
+            "grade": 60,
+            "academic score" : 7
+        },
+        {
+            "id": 5,
+            "university": "University of Bath",
+            "degree": "Computer Science",
+            "grade": 65,
+            "academic score": 8
+        }
+    ]
+}
